@@ -1,0 +1,29 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+    Because whit its help, now I can compare fewer lines and so, I can pinpoint the error more quickly.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+    Because it's like having a backup of my work from different times, each time I made a change it saves it and I can go back to this point.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+    Pros: Each change is meaningful and has a logical aspect, with google docs way it would get too clustered.
+    Cons: It's up to you how to commit, used in a bad way you could easily clustered the versions with no mucho context or just make a big change that wouldn't be easy to compare for changes.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+    Because sometimes the files are inter-related, so a change in a file would lead to changes in other files, and in the case we want to undo the changes, we would want to seek the changes in each file at the time of that commit to undo.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Use the command git log to explore the different version that are saved in the log, once you found the one you're interested in use the command git diff to compare its changes with other version.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Because it serves as a giant undo button, also it helps to pinpoint more easily the errors I make, using git diff to compare the different commits.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to try to commit, navigate between named commits and branch. All this so I can learn to use it in my own projects.
