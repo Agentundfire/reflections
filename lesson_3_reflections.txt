@@ -5,3 +5,7 @@ To share my work public and maybe ask for opinion of others without commiting th
 2. Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 It's better to commit the changes manually and not automatically, so in this way you have control of what changes you want to make in your core project.
+
+3. Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Branch is to make a different path from a commit in your repository, clone is to copy a whole repository en your pc, and fork is to make a copy of someone else repository in your account on github.
