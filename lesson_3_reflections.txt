@@ -17,3 +17,7 @@ It benefits at the moment of merging the localy repository with the remote one, 
 5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 Working on other parts of a public project or fixing bugs, easier to fix and testing, but harder to coordinate at the moment you want to   help with a current developed feature.
+
+6. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When I don't want to compromise the stability of the core project, the benefit is that I could work and suggest changes to the master branch ang get feedback from it, and at the same time the repository would always have a quality master branch that we know it works.
