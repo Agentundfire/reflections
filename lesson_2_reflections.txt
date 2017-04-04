@@ -24,3 +24,6 @@ To visualy perceive were the branches node detached, and what commits or changes
 A solid node with the changes of both branches.
 
 7. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pros: It's a smart way to speed up he process.
+Cons: Doesn't always work.
