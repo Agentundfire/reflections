@@ -13,3 +13,7 @@ Branch is to make a different path from a commit in your repository, clone is to
 4. What is the benefit of having a copy of the last known state of the remote stored locally?
 
 It benefits at the moment of merging the localy repository with the remote one, because the remote has a pointer in wichs it can compare the changes that has been made localy and how different they are of the remote, or if they are a continuation of the previous work.
+
+5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Working on other parts of a public project or fixing bugs, easier to fix and testing, but harder to coordinate at the moment you want to   help with a current developed feature.
