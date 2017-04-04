@@ -17,6 +17,8 @@ When you want to make some major changes to your project or want to experiment w
 
 5. How do the diagrams help you visualize the branch structure?
 
+To visualy perceive were the branches node detached, and what commits or changes were made.
+
 6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 7. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
