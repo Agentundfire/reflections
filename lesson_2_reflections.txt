@@ -21,4 +21,6 @@ To visualy perceive were the branches node detached, and what commits or changes
 
 6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
+A solid node with the changes of both branches.
+
 7. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
